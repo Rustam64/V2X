@@ -2,7 +2,7 @@
 Codes and instructions for a hand following Arduino robot as well as obstacle avoidance and Bluetooth/Gyroscope.
 
 The code provided on the git-hub page is ready to run and implement.
-Refer to the data below to adjust the pins and voltage.
+Refer to the data below to adjust the pins and voltage. Code for Wheel direction may need to be adjusted based on the location and rotation of the wheels used.
 For the Hand-Following and Obstacle Avoiding code:
 
 Left IR sensor: A0
